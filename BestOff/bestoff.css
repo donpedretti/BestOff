@@ -1,0 +1,121 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"/>.blue {
+    background-color: blue;
+}
+
+.imbi {
+    margin-top: 25%;
+    font-size: 700%;
+    font-family: 'Heebo';
+}
+
+.fleu {
+    margin-top: 10px;
+    font-family: 'Heebo';
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 5em;
+}
+
+td {
+    width: 25%;
+}
+
+table a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+table a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+table a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+table a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hippy {
+    margin: 14em 0;
+    position: relative;
+}
+
+.hippy a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hippy a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hippy a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hippy a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.mingo {
+    margin-top: 83px;
+}
+
+.pingo {
+    margin-top: 8px;
+}
+
+.pro {
+    color: green;
+    text-align: left;
+}
+
+.cons {
+    color: red;
+    text-align: left;
+}
+
+.pro ul {
+    text-align: left;
+    list-style-type: add_circle_outline;
+    li .material-icons,
+    ul li a {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .material-icons {
+        font-size: 50px;
+        margin-right: 7px;
+    }
+}
+
+.pro ul li .material-icons,
+ul li a {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.pro .material-icons {
+    font-size: 50px;
+    margin-right: 7px;
+}
